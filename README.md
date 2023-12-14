@@ -18,4 +18,4 @@
 С выполненными задачами, возможностями и используемыми **технологиями** можно ознакомиться в **[репозитории проекта.](https://github.com/batnd/spa-decor-shop)**
 
 ### Внешний вид
-![spa-web-blog-image](images/project_image-spa-decor-shop.jpg)
+![spa-decor-shop-image](images/project_image-spa-decor-shop.jpg)
