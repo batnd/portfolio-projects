@@ -8,6 +8,6 @@
 С выполненными задачами, возможностями и используемыми технологиями можно ознакомиться в **[репозитории проекта](https://github.com/batnd/spa-web-blog)**.
 
 ### Внешний вид
-![spa-web-blog-image](images/project-spa-web-blog-image.jpg)
+![spa-web-blog-image](images/project-image-spa-web-blog.jpg)
 
 
