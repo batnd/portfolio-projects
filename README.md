@@ -5,9 +5,9 @@
 
 ### Краткое описание
 Реализация веб-приложения сайта-блога веб-студии на фреймворке Angular.  
-С возможностями и используемыми технологиями можно ознакомиться в **[репозитории проекта](https://github.com/batnd/spa-web-blog)**.
+С выполненными задачами, возможностями и используемыми технологиями можно ознакомиться в **[репозитории проекта](https://github.com/batnd/spa-web-blog)**.
 
 ### Внешний вид
-![project-screen](images/spa-web-blog-image.jpg)
+![spa-web-blog-image](images/project-spa-web-blog-image.jpg)
 
 
