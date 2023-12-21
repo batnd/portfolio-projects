@@ -57,7 +57,7 @@
 
 
 
-## 5. Игра - Memory Game (учебный проект).
+## 5. Игра - "Найди пару" - Memory Game (учебный проект).
 ### Репозитории проектов: **[Проект на Angular](https://github.com/batnd/game-angular-memoryGame)** | **[Проект на React](https://github.com/batnd/game-react-memoryGame)**
 
 ### Описание
@@ -66,3 +66,31 @@
 
 ### Внешний вид
 ![game-memoryGame-image](images/project-image-game-memoryGame.jpg)
+
+
+
+
+
+## 6. Игра - "Крестики-нолики" - Tic-Tac-Toe (учебный проект).
+### Репозитории проектов: **[Проект на Angular](https://github.com/batnd/game-angular-ticTacToe)** | **[Проект на Vue.js](https://github.com/batnd/game-vue-ticTacToe)**
+
+### Описание
+Простая игра "Крестики-нолики" (Tic-Tac-Toe), выполненная на Angular и Vue.js.  
+С возможностями, выполненными задачами и **технологиями** можно ознакомиться в репозиториях проектов.
+
+### Внешний вид
+![game-memoryGame-image](images/project-image-game-ticTacToe.jpg)
+
+
+
+
+
+## 7. Игра - "Змейка" - Snake (учебный проект).
+### Репозиторий проекта: **[игра "Змейка"](https://github.com/batnd/game-javascript-snake)**
+
+### Описание
+Простая игра "Змейка" (Snake), выполненная на JavaScript.  
+С возможностями, выполненными задачами и **технологиями** можно ознакомиться в репозиториях проектов.
+
+### Внешний вид
+![game-snake-image](images/project-image-game-snake.jpg)
