@@ -1,11 +1,12 @@
 # Мои проекты
 #### Здесь вы можете ознакомиться с моими проектами.
 
-## 1. **[Веб-приложение](https://github.com/batnd/spa-web-blog)** - сайт-блог на Angular (учебный проект).
+## 1. Веб-приложение - сайт-блог на Angular (учебный проект).
+### Репозиторий проекта: **[сайт-блог на Angular](https://github.com/batnd/spa-web-blog)**
 
 ### Описание
-Реализация сайта-блога веб-студии на фреймворке Angular.  
-С выполненными задачами, возможностями и используемыми **технологиями** можно ознакомиться в **[репозитории проекта.](https://github.com/batnd/spa-web-blog)**
+Сайт-блог веб-студии, выполненный на фреймворке Angular.  
+С возможностями, выполненными задачами и **технологиями** можно ознакомиться в репозитории проекта. 
 
 ### Внешний вид
 ![spa-web-blog-image](images/project-image-spa-web-blog.jpg)
@@ -14,11 +15,12 @@
 
 
 
-## 2. **[Веб-приложение](https://github.com/batnd/spa-web-blog)** - интернет-магазин на Angular (учебный проект).
+## 2. Веб-приложение - интернет-магазин на Angular (учебный проект).
+### Репозиторий проекта: **[интернет-магазин на Angular](https://github.com/batnd/spa-decor-shop)**
 
 ### Описание
-Реализация интернет-магазина домашнего декора на фреймворке Angular.  
-С выполненными задачами, возможностями и используемыми **технологиями** можно ознакомиться в **[репозитории проекта.](https://github.com/batnd/spa-decor-shop)**
+Интернет-магазина домашнего декора, выполненный на фреймворке Angular.  
+С выполненными задачами, возможностями и используемыми **технологиями** можно ознакомиться в репозитории проекта
 
 ### Внешний вид
 ![spa-decor-shop-image](images/project-image-spa-decor-shop.jpg)
@@ -28,11 +30,39 @@
 
 
 ## 3. Веб-приложение - учёт финансов (учебный проект).
-### **[Проект на TypeScript](https://github.com/batnd/spa-financial-accounting-typescript)** | **[Проект на JavaScript](https://github.com/batnd/spa-financial-accounting-javascript)**
+### Репозитории проектов: **[Проект на TypeScript](https://github.com/batnd/spa-financial-accounting-typescript)** | **[Проект на JavaScript](https://github.com/batnd/spa-financial-accounting-javascript)**
 
 ### Описание
-Реализация приложения для учета финансов на TypeScript и JavaScript.  
-С выполненными задачами, возможностями и используемыми **технологиями** можно ознакомиться в репозиториях проекта (**[Проект на TypeScript](https://github.com/batnd/spa-financial-accounting-typescript)** | **[Проект на JavaScript](https://github.com/batnd/spa-financial-accounting-javascript)**)
+Приложение для учета финансов, выполненное на TypeScript и JavaScript.  
+С возможностями, выполненными задачами и **технологиями** можно ознакомиться в репозиториях проектов.
 
 ### Внешний вид
-![spa-decor-shop-image](images/project-image-spa-financial-accounting.jpg)
+![spa-financial-accounting-image](images/project-image-spa-financial-accounting.jpg)
+
+
+
+
+
+## 4. Веб-приложение - quiz-викторина (учебный проект).
+### Репозитории проектов: **[Проект на Angular](https://github.com/batnd/spa-quiz-angular)** | **[Проект на TypeScript](https://github.com/batnd/spa-quiz-typescript)** | **[Проект на JavaScript](https://github.com/batnd/spa-quiz-javascript)**
+
+### Описание
+Веб-приложение quiz-викторина, выполненная на Angular, TypeScript и JavaScript.  
+С возможностями, выполненными задачами и **технологиями** можно ознакомиться в репозиториях проектов.
+
+### Внешний вид
+![spa-quiz-image](images/project-image-spa-quiz.jpg)
+
+
+
+
+
+## 5. Игра - Memory Game (учебный проект).
+### Репозитории проектов: **[Проект на Angular](https://github.com/batnd/game-angular-memoryGame)** | **[Проект на React](https://github.com/batnd/game-react-memoryGame)**
+
+### Описание
+Простая игра "Найди пару" (Memory game), выполненная на Angular и React.  
+С возможностями, выполненными задачами и **технологиями** можно ознакомиться в репозиториях проектов.
+
+### Внешний вид
+![game-memoryGame-image](images/project-image-game-memoryGame.jpg)
