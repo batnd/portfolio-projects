@@ -123,4 +123,33 @@
 С возможностями, выполненными задачами, внешним видом и **технологиями** можно ознакомиться в репозитории проекта.
 
 ### Внешний вид **[(открыть демо)](https://batnd.github.io/landing-macaroon-shop/)**
-![landing-fruit-shop](images/project-image-landing-macaroon-shop.jpg)
+![landing-macaroon-shop](images/project-image-landing-macaroon-shop.jpg)
+
+
+
+
+
+## 10. Веб-страница (учебный проект).
+### Репозиторий проекта: **[веб-страница магазина чая](https://github.com/batnd/webpage-tea-shop)**
+
+### Описание
+Веб-страница сайта магазина чая, выполненная на **HTML, CSS + Bootstrap, JavaScript (jQuery)**.  
+Веб-страница **адаптивна** (от 320px).  
+С возможностями, выполненными задачами, внешним видом и **технологиями** можно ознакомиться в репозитории проекта.
+
+### Внешний вид **[(открыть демо)](https://batnd.github.io/webpage-tea-shop/)**
+![webpage-tea-shop](images/project-image-webpage-tea-shop.jpg)
+
+
+
+
+
+## 11. Веб-страница (учебный проект).
+### Репозиторий проекта: **[веб-страница личного кабинета видео-хостинга](https://github.com/batnd/webpage-personal-account-page)**
+
+### Описание
+Веб-страница личного кабинета пользователя видео-хостинга, выполненная на **HTML, CSS**.  
+С выполненными задачами, внешним видом и **технологиями** можно ознакомиться в репозитории проекта.
+
+### Внешний вид
+![webpage-tea-shop](images/project-image-webpage-personal-account-page.jpg)
